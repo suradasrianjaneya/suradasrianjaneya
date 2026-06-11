@@ -94,15 +94,6 @@ I'm a passionate **Software Development Engineer** and Computer Science student 
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=suradasrianjaneya&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect & Build Together
 
